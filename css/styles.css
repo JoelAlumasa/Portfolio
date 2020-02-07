@@ -11,4 +11,7 @@ body {
 img {
   float: right;
 }
-
+.test-box {
+  border: 2px solid black;
+  padding: 6px;
+}
