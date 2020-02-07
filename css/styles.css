@@ -12,4 +12,6 @@ body {
 img {
   float: right;
 }
-
+.trendy {
+  color:firebrick;
+}
