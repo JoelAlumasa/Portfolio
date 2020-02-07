@@ -3,6 +3,7 @@
   background-color: greenyellow;
   text-align: left;
   float: left;
+  border: solid black;
 }
 body {
   background-color:yellow;
@@ -11,7 +12,4 @@ body {
 img {
   float: right;
 }
-.test-box {
-  border: 2px solid black;
-  padding: 6px;
-}
+
