@@ -1,4 +1,14 @@
 .sidebar {
-  width: 100%;
-  background-color: thistle;
+  width: 60%;
+  background-color: greenyellow;
+  text-align: left;
+  float: left;
 }
+body {
+  background-color:yellow;
+  text-align: left;
+}
+img {
+  float: right;
+}
+
